@@ -9,7 +9,7 @@ import android.widget.Button;
 
 import com.github.omadahealth.lollipin.lib.managers.AppLock;
 import com.github.omadahealth.lollipin.lib.managers.LockManager;
-import com.muddzdev.styleabletoast.StyleableToast;
+import io.github.muddz.styleabletoast.StyleableToast;
 
 public class MainActivity extends AppCompatActivity {
     private static final int REQUEST_CODE_ENABLE = 11;

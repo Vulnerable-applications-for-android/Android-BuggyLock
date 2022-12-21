@@ -8,7 +8,7 @@ import android.graphics.drawable.ColorDrawable;
 import android.widget.Toast;
 
 import com.github.omadahealth.lollipin.lib.managers.AppLockActivity;
-import com.muddzdev.styleabletoast.StyleableToast;
+import io.github.muddz.styleabletoast.StyleableToast;
 
 import uk.me.lewisdeane.ldialogs.BaseDialog;
 import uk.me.lewisdeane.ldialogs.CustomDialog;
